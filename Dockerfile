@@ -1,4 +1,4 @@
-#This is to test the CI for the jenkins pipeline - Attempt 1
+#This is to test the CI for the jenkins pipeline - Attempt 2
 FROM hshar/webapp
 RUN apt update -y && apt install apache2 -y
 COPY . /var/www/html
