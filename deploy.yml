@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: vishumalepati/docker-project
+        image: vishumalepati/docker-project2
         ports:
         - containerPort: 80
